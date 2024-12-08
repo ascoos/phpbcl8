@@ -126,7 +126,7 @@ This means that from the PHP version that refers and to newer versions, without 
 
 The contents of version-based files mean that since added to a specific PHP version, without using `phpbcl8`, you will not be able to use them in older versions.
 
->"All functions in the below table were tested on [`PHP 8 Backwards Compatibility Library`](https://sourceforge.net/projects/ascoos-web-extended-studio/) with PHP 8.0 and 8.2"
+>"All functions in the below table were tested on [`Ascoos Web Extended Studio 24`](https://sourceforge.net/projects/ascoos-web-extended-studio/) with PHP 8.0 and 8.2"
 
 | A |    PHP   | phpbcl8 |   TYPE    |          NAME           |                DESCRIPTION
 |---|----------|--------|-----------|-------------------------|-----------------------------------------
