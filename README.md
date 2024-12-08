@@ -30,12 +30,6 @@ A main script checks the current PHP version and loads that implement the functi
 
 ***
 
-## Awards
-
-<p align="center"><img src="https://apps.ascoos.com/phpbcl8/images/PHPCLASSES-Certificate.png" height=512 /></p>
-
-***
-
 ## Contributing
 
 This is an open source project, open to anyone. 
