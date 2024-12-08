@@ -51,7 +51,7 @@ Please send any feedback or suggestions to [@ascoos](https://twitter.com/ascoos)
 
 [![OFFICIAL ASCOOS DOWNLOAD SITE](https://img.shields.io/website?url=https://dl.ascoos.com/pub/phpbcl8)](https://dl.ascoos.com/pub/phpbcl8/phpbcl8-latest.zip) 
 [![PHP Classes](https://img.shields.io/badge/GitHub-phpbcl8-blue.svg)](https://github.com/ascoos/phpbcl8/releases) 
-[![PHP Classes](https://img.shields.io/badge/php-classes-blue.svg)](https://www.phpclasses.org/package/12926.html) 
+[![PHP Classes](https://img.shields.io/badge/php-classes-blue.svg)](https://www.phpclasses.org/package/13417.html) 
 [![Sourceforge phpbcl8](https://img.shields.io/badge/SourceForge-phpbcl8-blue.svg)](https://sourceforge.net/projects/phpbcl8/files/latest/download)
 
 
