@@ -1,0 +1,50 @@
+{
+    "name": "ascoos/phpbcl8",
+    "description": "PHP 8 Backwards Compatibility Library (phpbcl8).",
+    "version": "2.0.2",
+    "license":"AGL-F (Ascoos General License - Free)",
+    "homepage": "https://apps.ascoos.com/phpbcl8",
+    "authors": [
+        {
+            "name": "Drogidis Christos",
+            "homepage": "https://www.ascoos.com",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://issues.ascoos.com",
+        "source": "https://github.com/ascoos/phpbcl8"
+    },
+    "repositories": [
+        {
+            "type": "package",
+            "package": {
+                "name": "ascoos/phpbcl8",
+                "version": "2.0.2",
+                "type": "library",
+                "distributors": [
+                    {
+                        "url": "https://dl.ascoos.com/pub/phpbcl8/phpbcl8-latest.zip",
+                        "type": "zip"
+                    },
+                    {
+                        "url": "https://github.com/ascoos/phpbcl8/releases/download/2.0.2/phpbcl8-2.0.2.zip",
+                        "type": "zip"
+                    },
+                    {
+                        "url": "https://sourceforge.net/projects/phpbcl8/files/latest/download",
+                        "type": "zip"
+                    }                    
+                ]
+            }
+        },
+        {
+            "type": "composer",
+            "url": "https://www.phpclasses.org/"
+        }          
+    ],
+    "require": {
+        "php": ">=5.6",
+        "phpclasses/phpbcl8": ">=2.0.2"
+    }    
+}
