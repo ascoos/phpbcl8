@@ -1,4 +1,4 @@
-<p align="center"><img src="https://apps.ascoos.com/phpbcl8/images/phpbcl8_256px.png" height=256 /></p>
+<p align="center"><img src="https://apps.ascoos.com/phpbcl8/images/phpBCL_256px.png" height=256 /></p>
 
 # PHP 8 Backwards Compatibility Library
 
